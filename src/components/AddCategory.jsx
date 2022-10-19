@@ -14,7 +14,6 @@ const AddCategory = ({ setCategory }) => {
         setError(false);
         setCategory(value);
         setValue("");
-        //console.log("enter form");
     }
 
     return ( 
