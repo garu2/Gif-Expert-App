@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 
-
 const useApi = (url) => {
 
     const [data, setData] = useState(null);

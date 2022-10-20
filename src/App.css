@@ -37,3 +37,16 @@ input[type="text"] {
 .error {
   color: red;
 }
+
+p.author {
+  display: flex;
+  justify-content: center;
+  margin-top: 3%;
+  gap: 7px;
+  color: #000;
+}
+p.author a {
+  text-decoration: none;
+  font-weight: 700;
+  color: #000;
+}
