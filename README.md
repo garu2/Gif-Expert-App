@@ -1,5 +1,6 @@
 # 🤪 Gif-Expert-App
 Realizamos un proyecto en React, de un buscador de Gifs utilizando el API de Giphy.
+
 ![image](https://res.cloudinary.com/dqd5x0s7w/image/upload/v1679535762/github/GifProject-min_knyfe4.png)
 
 ## 🚀DEMO
